@@ -2,34 +2,8 @@
 const { version } = require("../../package.json");
 
 module.exports = {
-  head: [
-    // [
-    //   "script",
-    //   {
-    //     src: "https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"
-    //   }
-    // ],
-    [
-      "script",
-      {
-        src: "https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"
-      }
-    ],
-    [
-      "script",
-      {
-        src: "https://unpkg.com/quill"
-      }
-    ],
-    [
-      "script",
-      {
-        src: `https://unpkg.com/vue2-editor@${version}`
-      }
-    ]
-  ],
-  plugins: [ 
-  ],
+  base: '/intro/',
+  plugins: [],
   locales: {
     "/": {
       lang: "en-US",
@@ -53,10 +27,7 @@ module.exports = {
           }
         ],
         sidebar: [
-          // "/installation.md",
-          "/guide.md",
-          "/examples/",
-          "/api.md"
+          "/profile.md"
           // "/notes.md"
         ]
       }
