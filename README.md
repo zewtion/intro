@@ -23,9 +23,7 @@ Thank you for read me
 └─ Use tools
 ```
 
-::: tip NOTI  
-Play ground 에 정의된 내용은 [zewtion.io](https://zewtion.github.io) 에서 기능 구현 된 내용을 설명 합니다  
-:::
+> `Play ground` 에 정의된 내용은 [zewtion.io](https://zewtion.github.io) 에서 기능 구현 된 내용을 설명 합니다
 
 ## shell word
 
