@@ -6,10 +6,10 @@ module.exports = {
   plugins: [],
   locales: {
     "/": {
-      lang: "en-US",
-      title: "vcjoo devlog intro",
+      lang: "ko-KR",
+      title: "AYAN intro page",
       description:
-        "vcjoo:: introduce my develog"
+        "developer vcjoo"
     }
   },
   themeConfig: {
@@ -17,7 +17,7 @@ module.exports = {
     docsDir: "docs",
     locales: {
       "/": {
-        label: "English",
+        label: "Korean",
         selectText: "Languages",
         editLinkText: "Edit this page on GitHub",
         nav: [
@@ -27,8 +27,10 @@ module.exports = {
           }
         ],
         sidebar: [
-          "/profile.md"
-          // "/notes.md"
+          "/i/",
+          "/code-style/",
+          "/play-ground/",
+          "/like-tools/"
         ]
       }
     }
