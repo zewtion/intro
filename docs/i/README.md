@@ -1,3 +1,3 @@
-# profile main
+# 프로필
 
 > hi
