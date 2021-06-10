@@ -1,5 +1,6 @@
 # 포트폴리오
-<img width="100%" src="/introme.png" alt="intro">
+
+<img width="100%" src="./introme.png" alt="intro">
 
 ## 프로필  
 <table with="100%" style="border: 0;">
@@ -12,16 +13,17 @@
         <td width="50%"> 이메일: zeus@kakao.com </td>
     </tr>
     <tr>
-        <td width="50%"> 주소: 경기도 군포시 </td>
+        <td width="50%"> 사는곳: 경기도 군포시 *** </td>
         <td width="50%"> 홈페이지: https://zewtion.github.io/intro </td>
     </tr>
     <tr>
-        <td width="50%"> Guthub: https://github.com/zewtion </td>
-        <td width="50%"> kakao: https://open.kakao.com/me/vcjoo </td>
+        <td width="50%"> 깃헙: https://github.com/zewtion </td>
+        <td width="50%"> 카톡: https://open.kakao.com/me/vcjoo </td>
     </tr>
 </table>
 
 ## 보유기술
+
 Javascript :star: :star: :star: :star2:
 > 프론트엔드 개발자를 지향하고 있습니다  
 vue.js를 기반으로 코딩 스타일을 읽히고 있습니다  
@@ -54,9 +56,14 @@ Server :star:
 `Docker`나 `jenkins`, `Apache`와 같은 서버환경 구축은 경험이 많이 부족한 편 입니다  
 주로 `tmax-jeus`, `weblogic` was 환경에서 개발을 진행 했습니다
 
+## 주요경력
+- `네오메카`(2013.02 ~ 2015.12): CTI 콜 시스템 구축업무( 웹개발 / 3년 )
+- `나이스신용정보`(2016.03 ~ 2018.03): 전자계약서 솔루션 구축업무( 웹개발 / 2년 )
+- `웰컴에프앤디`(2018.10 ~ ): 렌탈 시스템 구축업무( 웹개발 / 2년+ )
+
 ## 자격증
-* 정보처리기사( 2016.07 )
-* OA마스터( 2012.12 )
-* 소방안전관리자 2급( 2017.06 )
-* 운전면허증 1종보통( 2011.09 )
+- 정보처리기사( 2016.07 )
+- OA마스터( 2012.12 )
+- 소방안전관리자 2급( 2017.06 )
+- 운전면허증 1종보통( 2011.09 )
 
