@@ -7,10 +7,10 @@
 - intellij
 - dbeaver
 - boost note
-- Ultra editor
+- ultra editor
 - notepad++
-- WinSCP
-- Postman
+- winSCP
+- postman
 - terminus
 - winMerge
 

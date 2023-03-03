@@ -18,7 +18,7 @@
   - FMC앱 원격지원 웹사이트 개발 
 - techAssist 사내 업무관리 시스템 개발
 
-`java, jsp, flex, svn, ms-sql, oracle, weblogic, webview`  
+`java`, `jsp`, `flex`, `svn`, `ms-sql`, `oracle`, `weblogic`, `webview`  
 
 
 ## Nice AMC
@@ -30,7 +30,7 @@
   - 서류대행 서비스에 활용되는 전사서명 구현
   - 카카오 알림톡 연동
 
-`java, spring, jeus, oracle`
+`java`, `spring`, `jeus`, `oracle`
 
 ## Welcome F&D
 > 웰컴에프앤디 2018.10 ~ 현재 // 캐피탈, 렌탈 등 웰컴금융그룹 신사업본부 전산업무
@@ -43,7 +43,7 @@
   - 접수 건, 완료 건 등을 활용한 통계화면 구현
 - 렌탈전산 고객관리시스템 고도화 프로젝트 진행
   - jsp화면 100여본 구현
-  - postgre-sql DB 전환
+  - oracle to postgreSql DB 전환
   - 대외계 API 20여본 구현
 - 캐피탈전산 고객관리시스템 운영
 - 캐피탈전산 토스, 네이버, 핀다 등 혁신금융채널 연동 개발
@@ -53,5 +53,5 @@
   - 개인 및 기업 신용공여 전문 구현 및 운용
   - 연체정보, 회생정보 및 이행실태조사 관리
 
-`java, jsp, vue, ionic, angular, android, spring, oracle, postgre-sql`
+`java`, `jsp`, `vuejs`, `ionic`, `angular`, `android`, `spring`, `oracle`, `postgre-sql`
 
