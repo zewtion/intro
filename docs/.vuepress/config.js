@@ -7,9 +7,9 @@ module.exports = {
   locales: {
     "/": {
       lang: "ko-KR",
-      title: "AYAN intro page",
+      title: "vcjoo intro page",
       description:
-        "developer vcjoo"
+        "Programmer vcjoo"
     }
   },
   themeConfig: {
