@@ -9,16 +9,16 @@
 
 - CTI 통합 고객센터 솔루션 개발 및 운영
   - 도로명주소 도입으로 주소체계 고도화 및 마이그레이션 진행
-  - ms-sql 전용 전산을 oracle, mariaDB 등으로 다각화 구현
+  - ms-sql 전용 전산을 oracle mariaDB 등으로 다각화 구현
   - 고객사별 커스텀 개발/운영
 - PBX 회선정보 관리시스템 개발
 - FMC 모바일 콜센터 개발
-  - android 모바일 앱 개발 부분 참여
-  - 사내 메신저 연동 시스템 개발
-  - FMC앱 원격지원 웹사이트 개발 
+  - android 모바일 앱 개발 참여
+  - 사내 그룹웨어 주소록 연동 개발
+  - FMC앱 웹 원격지원 개발 
 - techAssist 사내 업무관리 시스템 개발
 
-`java`, `jsp`, `flex`, `svn`, `ms-sql`, `oracle`, `weblogic`, `webview`  
+`java` `jsp` `flex` `svn` `ms-sql` `oracle` `weblogic` `webview`  
 
 
 ## Nice AMC
@@ -30,28 +30,28 @@
   - 서류대행 서비스에 활용되는 전사서명 구현
   - 카카오 알림톡 연동
 
-`java`, `spring`, `jeus`, `oracle`
+`java` `spring` `jeus` `oracle`
 
 ## Welcome F&D
-> 웰컴에프앤디 2018.10 ~ 현재 // 캐피탈, 렌탈 등 웰컴금융그룹 신사업본부 전산업무
+> 웰컴에프앤디 2018.10 ~ 현재 // 캐피탈 렌탈 등 웰컴금융그룹 신사업본부 전산업무
 
 - 렌탈전산 고객관리시스템 운영
 - 렌탈전산 모바일 배송/설치/AS진행 하이브리드앱 개발
   - ionic framework 활용 iOS/android 를 지원하는 설치기사님 전용앱 구현
   - payAt을 통한 결제API 연동
   - 사내전산 연동을 통한 고객 및 점검리스트 구현
-  - 접수 건, 완료 건 등을 활용한 통계화면 구현
+  - 접수 건 완료 건 등을 활용한 통계화면 구현
 - 렌탈전산 고객관리시스템 고도화 프로젝트 진행
   - jsp화면 100여본 구현
   - oracle to postgreSql DB 전환
   - 대외계 API 20여본 구현
 - 캐피탈전산 고객관리시스템 운영
-- 캐피탈전산 토스, 네이버, 핀다 등 혁신금융채널 연동 개발
+- 캐피탈전산 토스 네이버 핀다 등 혁신금융채널 연동 개발
   - 전문내용 중 개인정보 암호화처리 구현
-  - 여신정보 가접수, 평가, 결과전달 등 전문API 구현
-- 캐피탈전산 연체정보, 대출정보 등 신용정보원 보고서 업무 담당
+  - 여신정보 가접수 평가 결과전달 등 전문API 구현
+- 캐피탈전산 연체정보 대출정보 등 신용정보원 보고서 업무 담당
   - 개인 및 기업 신용공여 전문 구현 및 운용
-  - 연체정보, 회생정보 및 이행실태조사 관리
+  - 연체정보 회생정보 및 이행실태조사 관리
 
-`java`, `jsp`, `vuejs`, `ionic`, `angular`, `android`, `spring`, `oracle`, `postgre-sql`
+`java` `jsp` `vuejs` `ionic` `angular` `android` `spring` `oracle` `postgre-sql`
 

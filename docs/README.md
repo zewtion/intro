@@ -15,7 +15,7 @@
         <td width="50%"> 생년월일: 1989.01.31 </td>
     </tr>
     <tr>
-        <td width="50%"> 연락처: 010-9165-9152 </td>
+        <td width="50%"> 연락처: 010-9614-2018 </td>
         <td width="50%"> 이메일: zeus@kakao.com </td>
     </tr>
     <tr>
@@ -62,3 +62,7 @@
 ## favorite tag
 `#jsp` `#vue.js` `#spring` `#oracle` `#postgresql` `#scss` `#element-ui`
 `#bootstrap` `#angular` `#ionic-framework` `볼링` `맥북` `갤럭시` `아스날` `네이비`
+
+---
+
+[NextPage "주요이력"](/intro/i)
