@@ -60,9 +60,9 @@
 개발자로 일하다 보면 느껴지는 따분함을 리프레시 해주는 활력소가 되어 줍니다  
 
 ## favorite tag
-`#jsp` `#vue.js` `#spring` `#oracle` `#postgresql` `#scss` `#element-ui`
-`#bootstrap` `#angular` `#ionic-framework` `볼링` `맥북` `갤럭시` `아스날` `네이비`
+`jsp` `vue.js` `spring` `oracle` `postgresql` `scss` `element-ui`
+`bootstrap` `angular` `ionic-framework` `볼링` `맥북` `갤럭시` `아스날` `네이비`
 
 ---
 
-[NextPage "주요이력"](/intro/i)
+<p style="text-align: right"><a href="/intro/i">NextPage "주요이력"</a></p>
